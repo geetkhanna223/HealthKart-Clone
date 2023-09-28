@@ -90,6 +90,12 @@ header .login button{
     border: none;
     overflow: visible;
 }
+header .cart1{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 70px;
+}
 /*section1*/
 .section-1{
     width: 100%;
